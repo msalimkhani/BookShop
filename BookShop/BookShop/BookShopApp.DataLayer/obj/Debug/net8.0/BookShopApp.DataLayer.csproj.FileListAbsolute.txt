@@ -1,0 +1,14 @@
+/home/mahdi/Projects/CSharp/BookShop/BookShop/BookShopApp.DataLayer/bin/Debug/net8.0/BookShopApp.DataLayer.deps.json
+/home/mahdi/Projects/CSharp/BookShop/BookShop/BookShopApp.DataLayer/bin/Debug/net8.0/BookShopApp.DataLayer.runtimeconfig.json
+/home/mahdi/Projects/CSharp/BookShop/BookShop/BookShopApp.DataLayer/bin/Debug/net8.0/BookShopApp.DataLayer.dll
+/home/mahdi/Projects/CSharp/BookShop/BookShop/BookShopApp.DataLayer/bin/Debug/net8.0/BookShopApp.DataLayer.pdb
+/home/mahdi/Projects/CSharp/BookShop/BookShop/BookShopApp.DataLayer/obj/Debug/net8.0/BookShopApp.DataLayer.csproj.AssemblyReference.cache
+/home/mahdi/Projects/CSharp/BookShop/BookShop/BookShopApp.DataLayer/obj/Debug/net8.0/BookShopApp.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+/home/mahdi/Projects/CSharp/BookShop/BookShop/BookShopApp.DataLayer/obj/Debug/net8.0/BookShopApp.DataLayer.AssemblyInfoInputs.cache
+/home/mahdi/Projects/CSharp/BookShop/BookShop/BookShopApp.DataLayer/obj/Debug/net8.0/BookShopApp.DataLayer.AssemblyInfo.cs
+/home/mahdi/Projects/CSharp/BookShop/BookShop/BookShopApp.DataLayer/obj/Debug/net8.0/BookShopApp.DataLayer.csproj.CoreCompileInputs.cache
+/home/mahdi/Projects/CSharp/BookShop/BookShop/BookShopApp.DataLayer/obj/Debug/net8.0/BookShopApp.DataLayer.dll
+/home/mahdi/Projects/CSharp/BookShop/BookShop/BookShopApp.DataLayer/obj/Debug/net8.0/refint/BookShopApp.DataLayer.dll
+/home/mahdi/Projects/CSharp/BookShop/BookShop/BookShopApp.DataLayer/obj/Debug/net8.0/BookShopApp.DataLayer.pdb
+/home/mahdi/Projects/CSharp/BookShop/BookShop/BookShopApp.DataLayer/obj/Debug/net8.0/BookShopApp.DataLayer.genruntimeconfig.cache
+/home/mahdi/Projects/CSharp/BookShop/BookShop/BookShopApp.DataLayer/obj/Debug/net8.0/ref/BookShopApp.DataLayer.dll

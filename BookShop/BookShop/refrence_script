@@ -1,0 +1,2 @@
+dotnet add BookShopApp/BookShopApp.csproj reference BookShopApp.DataLayer/BookShopApp.DataLayer.csproj
+dotnet add BookShopApp/BookShopApp.csproj reference BookShopApp.Models/BookShopApp.Models.csproj
