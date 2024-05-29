@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+pEvQs60lj7Yj/ifR2wmJdExkjuRVOhisrK2JhsRHwy0w6OrIYqRllN8NZq5ZRD6xch/ZZsKrcZLVwh4Ke53wA==",
+  "dgSpecHash": "fVOV67/NXNDWJAnSyCNrdFyaRCcN1Q/DIcPsKK51AXHDE3aCU47aZeWJhYfQ7XLummO8PNYmyxQC+4MoYe+CxA==",
   "success": true,
-  "projectFilePath": "/home/mahdi/Projects/CSharp/BookShop/BookShop/BookShopApp.Models/BookShopApp.Models.csproj",
+  "projectFilePath": "/home/mahdi/Projects/BookShop/BookShop/BookShop/BookShopApp.Models/BookShopApp.Models.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

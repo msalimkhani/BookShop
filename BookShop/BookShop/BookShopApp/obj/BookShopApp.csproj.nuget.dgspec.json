@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/mahdi/Projects/CSharp/BookShop/BookShop/BookShopApp/BookShopApp.csproj": {}
+    "/home/mahdi/Projects/BookShop/BookShop/BookShop/BookShopApp/BookShopApp.csproj": {}
   },
   "projects": {
-    "/home/mahdi/Projects/CSharp/BookShop/BookShop/BookShopApp.DataLayer/BookShopApp.DataLayer.csproj": {
+    "/home/mahdi/Projects/BookShop/BookShop/BookShop/BookShopApp.DataLayer/BookShopApp.DataLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/mahdi/Projects/CSharp/BookShop/BookShop/BookShopApp.DataLayer/BookShopApp.DataLayer.csproj",
+        "projectUniqueName": "/home/mahdi/Projects/BookShop/BookShop/BookShop/BookShopApp.DataLayer/BookShopApp.DataLayer.csproj",
         "projectName": "BookShopApp.DataLayer",
-        "projectPath": "/home/mahdi/Projects/CSharp/BookShop/BookShop/BookShopApp.DataLayer/BookShopApp.DataLayer.csproj",
+        "projectPath": "/home/mahdi/Projects/BookShop/BookShop/BookShop/BookShopApp.DataLayer/BookShopApp.DataLayer.csproj",
         "packagesPath": "/home/mahdi/.nuget/packages/",
-        "outputPath": "/home/mahdi/Projects/CSharp/BookShop/BookShop/BookShopApp.DataLayer/obj/",
+        "outputPath": "/home/mahdi/Projects/BookShop/BookShop/BookShop/BookShopApp.DataLayer/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/mahdi/.nuget/NuGet/NuGet.Config"
@@ -79,14 +79,14 @@
         }
       }
     },
-    "/home/mahdi/Projects/CSharp/BookShop/BookShop/BookShopApp.Models/BookShopApp.Models.csproj": {
+    "/home/mahdi/Projects/BookShop/BookShop/BookShop/BookShopApp.Models/BookShopApp.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/mahdi/Projects/CSharp/BookShop/BookShop/BookShopApp.Models/BookShopApp.Models.csproj",
+        "projectUniqueName": "/home/mahdi/Projects/BookShop/BookShop/BookShop/BookShopApp.Models/BookShopApp.Models.csproj",
         "projectName": "BookShopApp.Models",
-        "projectPath": "/home/mahdi/Projects/CSharp/BookShop/BookShop/BookShopApp.Models/BookShopApp.Models.csproj",
+        "projectPath": "/home/mahdi/Projects/BookShop/BookShop/BookShop/BookShopApp.Models/BookShopApp.Models.csproj",
         "packagesPath": "/home/mahdi/.nuget/packages/",
-        "outputPath": "/home/mahdi/Projects/CSharp/BookShop/BookShop/BookShopApp.Models/obj/",
+        "outputPath": "/home/mahdi/Projects/BookShop/BookShop/BookShop/BookShopApp.Models/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/mahdi/.nuget/NuGet/NuGet.Config"
@@ -132,14 +132,14 @@
         }
       }
     },
-    "/home/mahdi/Projects/CSharp/BookShop/BookShop/BookShopApp/BookShopApp.csproj": {
+    "/home/mahdi/Projects/BookShop/BookShop/BookShop/BookShopApp/BookShopApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/mahdi/Projects/CSharp/BookShop/BookShop/BookShopApp/BookShopApp.csproj",
+        "projectUniqueName": "/home/mahdi/Projects/BookShop/BookShop/BookShop/BookShopApp/BookShopApp.csproj",
         "projectName": "BookShopApp",
-        "projectPath": "/home/mahdi/Projects/CSharp/BookShop/BookShop/BookShopApp/BookShopApp.csproj",
+        "projectPath": "/home/mahdi/Projects/BookShop/BookShop/BookShop/BookShopApp/BookShopApp.csproj",
         "packagesPath": "/home/mahdi/.nuget/packages/",
-        "outputPath": "/home/mahdi/Projects/CSharp/BookShop/BookShop/BookShopApp/obj/",
+        "outputPath": "/home/mahdi/Projects/BookShop/BookShop/BookShop/BookShopApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/mahdi/.nuget/NuGet/NuGet.Config"
@@ -154,11 +154,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/home/mahdi/Projects/CSharp/BookShop/BookShop/BookShopApp.DataLayer/BookShopApp.DataLayer.csproj": {
-                "projectPath": "/home/mahdi/Projects/CSharp/BookShop/BookShop/BookShopApp.DataLayer/BookShopApp.DataLayer.csproj"
+              "/home/mahdi/Projects/BookShop/BookShop/BookShop/BookShopApp.DataLayer/BookShopApp.DataLayer.csproj": {
+                "projectPath": "/home/mahdi/Projects/BookShop/BookShop/BookShop/BookShopApp.DataLayer/BookShopApp.DataLayer.csproj"
               },
-              "/home/mahdi/Projects/CSharp/BookShop/BookShop/BookShopApp.Models/BookShopApp.Models.csproj": {
-                "projectPath": "/home/mahdi/Projects/CSharp/BookShop/BookShop/BookShopApp.Models/BookShopApp.Models.csproj"
+              "/home/mahdi/Projects/BookShop/BookShop/BookShop/BookShopApp.Models/BookShopApp.Models.csproj": {
+                "projectPath": "/home/mahdi/Projects/BookShop/BookShop/BookShop/BookShopApp.Models/BookShopApp.Models.csproj"
               }
             }
           }

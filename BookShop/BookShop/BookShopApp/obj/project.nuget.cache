@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b17fA/x9a61ZN0CwLCtVrfSZX0vF0ONwmiAFwaF2oXCfxlPH/PXfGVNH2yiEdWBckCHPkbZlW6mkzbhLEBAVmQ==",
+  "dgSpecHash": "X8iGbUYsThHFvTkED1PhSjzgSq9Hr1gwt6dWb9Gme8ETxyaYVKcLRILih3DOV3lm+F/1dCLFNc92CjiRCSBD9A==",
   "success": true,
-  "projectFilePath": "/home/mahdi/Projects/CSharp/BookShop/BookShop/BookShopApp/BookShopApp.csproj",
+  "projectFilePath": "/home/mahdi/Projects/BookShop/BookShop/BookShop/BookShopApp/BookShopApp.csproj",
   "expectedPackageFiles": [
     "/home/mahdi/.nuget/packages/microsoft.entityframeworkcore/8.0.6/microsoft.entityframeworkcore.8.0.6.nupkg.sha512",
     "/home/mahdi/.nuget/packages/microsoft.entityframeworkcore.abstractions/8.0.6/microsoft.entityframeworkcore.abstractions.8.0.6.nupkg.sha512",
