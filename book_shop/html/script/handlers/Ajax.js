@@ -1,5 +1,5 @@
 import { MainSlider } from "../models/MainSlider.js";
-const API_SCOPE = "http://localhost:5287/api";
+const API_SCOPE = "http://localhost:5000/api";
 
 
 class FetchFeature
